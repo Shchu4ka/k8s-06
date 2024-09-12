@@ -4,7 +4,7 @@
 
 - Создаем Deployment приложения, делаем так, чтобы busybox писал каждые пять секунд в файл output.txt в директории /output, даем контейнеру multitool читать файл output.txt из директории /input
 
-  ![image](https://github.com/user-attachments/assets/b481d145-984f-4a3f-8e15-1c00d77f2f04)
+  ![image](https://github.com/user-attachments/assets/ac5592e2-9891-42fd-9e9a-96176f14ba48)
 
 - Проверяем все это
 
